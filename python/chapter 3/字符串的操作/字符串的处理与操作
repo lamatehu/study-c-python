@@ -1,0 +1,23 @@
+字符串类型和操作
+
+由0个或多个字符组成的序列
+两类四种表达方式
+单行和多行字符串
+""" "" '''
+正向递增序号和反向递减序号
+字符串切片
+x + y 连接两个字符串x和y
+len(x)
+str(x)
+hex(x) 16进制
+oct(x) 8进制
+chr(u)
+ord(x)
+unicode 大序列空间中0-1114111
+.lower() .upper() 转换大小写
+.split(sep = None) 列表形式
+.count(计数) 计数用法
+.replace() 字符处理和替换
+.center(width,[填充内容]) 设置居中后设置填充
+.strip(chars)
+.join(iter) 在每个字符中间添加分隔符
